@@ -1,0 +1,7 @@
+H:\ATALHOS\Central de Apps\Resources\pexip.ps1
+H:\ATALHOS\Central de Apps\CentralizarApps.exe
+H:\ATALHOS\Central de Apps\CentralizarApps.dll
+H:\ATALHOS\Central de Apps\CentralizarApps.deps.json
+H:\ATALHOS\Central de Apps\CentralizarApps.runtimeconfig.json
+H:\ATALHOS\Central de Apps\CentralizarApps.dll.config
+H:\ATALHOS\Central de Apps\CentralizarApps.pdb

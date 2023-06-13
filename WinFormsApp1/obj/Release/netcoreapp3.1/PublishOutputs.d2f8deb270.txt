@@ -1,0 +1,7 @@
+C:\Users\nslima\Documents\Central de Apps\Resources\pexip.ps1
+C:\Users\nslima\Documents\Central de Apps\CentralizarApps.exe
+C:\Users\nslima\Documents\Central de Apps\CentralizarApps.dll
+C:\Users\nslima\Documents\Central de Apps\CentralizarApps.deps.json
+C:\Users\nslima\Documents\Central de Apps\CentralizarApps.runtimeconfig.json
+C:\Users\nslima\Documents\Central de Apps\CentralizarApps.dll.config
+C:\Users\nslima\Documents\Central de Apps\CentralizarApps.pdb

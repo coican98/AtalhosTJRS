@@ -1,0 +1,35 @@
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.vb
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Resources.resources
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\AD.msc
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\pexip.ps1
+C:\Users\nslima\Documents\Centralizar Apps\netcoreapp3.1\AD.msc
+C:\Users\nslima\Documents\Centralizar Apps\netcoreapp3.1\pexip.ps1
+C:\Users\nslima\Documents\Centralizar Apps\netcoreapp3.1\CentralizarApps.exe
+C:\Users\nslima\Documents\Centralizar Apps\netcoreapp3.1\CentralizarApps.deps.json
+C:\Users\nslima\Documents\Centralizar Apps\netcoreapp3.1\CentralizarApps.runtimeconfig.json
+C:\Users\nslima\Documents\Centralizar Apps\netcoreapp3.1\CentralizarApps.runtimeconfig.dev.json
+C:\Users\nslima\Documents\Centralizar Apps\netcoreapp3.1\CentralizarApps.dll
+C:\Users\nslima\Documents\Centralizar Apps\netcoreapp3.1\CentralizarApps.pdb
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\CentralizarApps.dll
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\CentralizarApps.pdb
+C:\Users\nslima\Documents\CentralizarApps\netcoreapp3.1\CentralizarApps.exe
+C:\Users\nslima\Documents\CentralizarApps\netcoreapp3.1\CentralizarApps.deps.json
+C:\Users\nslima\Documents\CentralizarApps\netcoreapp3.1\CentralizarApps.runtimeconfig.json
+C:\Users\nslima\Documents\CentralizarApps\netcoreapp3.1\CentralizarApps.runtimeconfig.dev.json
+C:\Users\nslima\Documents\CentralizarApps\netcoreapp3.1\CentralizarApps.dll
+C:\Users\nslima\Documents\CentralizarApps\netcoreapp3.1\CentralizarApps.pdb
+C:\Users\nslima\Documents\CentralizarApps\netcoreapp3.1\CentralizarApps.dll.config
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nslima\Documents\CentralizarApps\netcoreapp3.1\Resources\pexip.ps1
+C:\Users\nslima\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.vbproj.AssemblyReference.cache

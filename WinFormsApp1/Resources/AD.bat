@@ -1,0 +1,2 @@
+start AD.msc
+exit
